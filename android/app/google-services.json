@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "382890776298",
+    "project_id": "movie-app-34b57",
+    "storage_bucket": "movie-app-34b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382890776298:android:d97717af9006262f08e993",
+        "android_client_info": {
+          "package_name": "tr.com.mustafagulmez.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382890776298-en5bkgv1vgo5unvqf62uq6qe0ht1cn6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNrLcVG7CLfOhZvetrrLIUEDBg61giiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382890776298-en5bkgv1vgo5unvqf62uq6qe0ht1cn6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382890776298-8bf0lnbq7m2u2hdclfsigsq0knkshtdi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tr.com.mustafagulmez.movieapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
